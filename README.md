@@ -1,7 +1,7 @@
 # Hi  👋 ,i'm Shubham Paghadal
 
 ## 🚀 About Me
-Hi! I'm **[Shubham]**, a passionate developer who loves building amazing things with code. I specialize in **[Your Tech Stack]**, and I'm always exploring new technologies to expand my skills.
+Hi! I'm **[Shubham]**, a passionate developer who loves building amazing things with code. and I'm always exploring new technologies to expand my skills.
 
 ## 🔧 Tech Stack & Tools
 - 💻 **Languages**: [JS, React JS]
